@@ -1,0 +1,17 @@
+C:\Users\Admin\Documents\Adobe\PracticeLibraryList\PracticeLibraryList\bin\Debug\netcoreapp3.1\PracticeLibraryList.exe
+C:\Users\Admin\Documents\Adobe\PracticeLibraryList\PracticeLibraryList\bin\Debug\netcoreapp3.1\PracticeLibraryList.deps.json
+C:\Users\Admin\Documents\Adobe\PracticeLibraryList\PracticeLibraryList\bin\Debug\netcoreapp3.1\PracticeLibraryList.runtimeconfig.json
+C:\Users\Admin\Documents\Adobe\PracticeLibraryList\PracticeLibraryList\bin\Debug\netcoreapp3.1\PracticeLibraryList.runtimeconfig.dev.json
+C:\Users\Admin\Documents\Adobe\PracticeLibraryList\PracticeLibraryList\bin\Debug\netcoreapp3.1\PracticeLibraryList.dll
+C:\Users\Admin\Documents\Adobe\PracticeLibraryList\PracticeLibraryList\bin\Debug\netcoreapp3.1\PracticeLibraryList.pdb
+C:\Users\Admin\Documents\Adobe\PracticeLibraryList\PracticeLibraryList\bin\Debug\netcoreapp3.1\Exceptions.dll
+C:\Users\Admin\Documents\Adobe\PracticeLibraryList\PracticeLibraryList\bin\Debug\netcoreapp3.1\Exceptions.pdb
+C:\Users\Admin\Documents\Adobe\PracticeLibraryList\PracticeLibraryList\obj\Debug\netcoreapp3.1\PracticeLibraryList.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Adobe\PracticeLibraryList\PracticeLibraryList\obj\Debug\netcoreapp3.1\PracticeLibraryList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Adobe\PracticeLibraryList\PracticeLibraryList\obj\Debug\netcoreapp3.1\PracticeLibraryList.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Adobe\PracticeLibraryList\PracticeLibraryList\obj\Debug\netcoreapp3.1\PracticeLibraryList.AssemblyInfo.cs
+C:\Users\Admin\Documents\Adobe\PracticeLibraryList\PracticeLibraryList\obj\Debug\netcoreapp3.1\PracticeLibraryList.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Adobe\PracticeLibraryList\PracticeLibraryList\obj\Debug\netcoreapp3.1\PracticeLibraryList.csproj.CopyComplete
+C:\Users\Admin\Documents\Adobe\PracticeLibraryList\PracticeLibraryList\obj\Debug\netcoreapp3.1\PracticeLibraryList.dll
+C:\Users\Admin\Documents\Adobe\PracticeLibraryList\PracticeLibraryList\obj\Debug\netcoreapp3.1\PracticeLibraryList.pdb
+C:\Users\Admin\Documents\Adobe\PracticeLibraryList\PracticeLibraryList\obj\Debug\netcoreapp3.1\PracticeLibraryList.genruntimeconfig.cache
